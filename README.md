@@ -1,9 +1,9 @@
 # DurexSecurity-ToS
 
-**By using [`Durex Security`](https://discord.com/api/oauth2/authorize?client_id=1006157078924107867&permissions=8&scope=bot) you agree and accept the following terms of service.**
+**By using [`NemO`](https://discord.com/api/oauth2/authorize?client_id=1033058392543088782&permissions=8&scope=bot) you agree and accept the following terms of service.**
 
 1. [discord.com/terms](https://discord.com/terms)
-2. Read and agreed to our [privacy policy](https://github.com/NemoPlayZ/DurexSecurity-PrivacyPolicy/blob/main/README.md)
+2. Read and agreed to our [privacy policy](https://github.com/NemoCord/NemO-PrivacyPolicy/blob/main/README.md)
 
 # Prohibited Activities
 
