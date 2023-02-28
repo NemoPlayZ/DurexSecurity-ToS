@@ -1,4 +1,4 @@
-# DurexSecurity-ToS
+# NemO-ToS
 
 **By using [`NemO`](https://discord.com/api/oauth2/authorize?client_id=1033058392543088782&permissions=8&scope=bot) you agree and accept the following terms of service.**
 
